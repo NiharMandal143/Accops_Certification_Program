@@ -1,0 +1,292 @@
+https://github.com/NiharMandal143/Accops_Certification_Program.git
+Final quiz
+1.What tokens users can use for reauthentication in HySecure?
+ Ans : SMS Email 
+
+2.Which type of end-user licensing is supported in HySecure gateway V5299?
+Ans : Named and Concurrent 
+
+4.What is the purpose of generating an Application Based Report?
+Ans : To analyse user activity for a specific application. 
+
+5.Which log file contains log to troubleshoot errors related to HySecure features?
+Ans : Error Logs
+
+6.What are the options available while importing users from a CSV file into HySecure?
+Ans : Don't update existing users accounts and update existing one append new 
+
+7.In the context of HySecure Gateway, what is the purpose of an App Tunnel IP Address Pool?
+Ans : Providing unique IPs to users accessing published applications 
+
+8.What does the "Endpoint Protection" policy control?
+Ans :   Internet access and external connections on user's machine. 
+
+9.Which type of users primarily log in with just a username and password?
+Ans :   Low Security Users 
+
+10.Which option is used to apply 5.4 Service Pack 2 in the firmware upgrade of HySecure?
+Ans : Service pack 
+
+11.What type of license is applied by default on a fresh HySecure Gateway installation?
+Ans : Concurrent User License for 5 users. 
+
+12.Where is the logs for test SMS messages located?
+Ans : ---------------WrongHyID logs-------- 
+
+13.What is default behaviour of Endpoint security ACL?
+Ans : --------------------Wrong Validate Device profile and allow login from client or hylite if condition matches---------------------
+
+14.What is the purpose of the Destination field in route entries?
+Ans :   It defines the target network. 
+
+15.What is the primary purpose of applying an SSL certificate on the HySecure Gateway?
+  To establish a secure HTTPS connection
+
+16.Which of the following is correct for Remote Meeting application?
+  Ans : ---------Wrong   Remote meeting applications supported with HyLite as well as HySecure client. ----------
+
+17.What are the different authentication protocols supported in HySecure gateway?
+   LDAP 
+  SAML 
+  All  (Correct)
+  Radius 
+
+18.What log file category holds activity like login-logout, device and app access?
+  Ans : User Logs
+
+19. Which option enables the display of a client download option on the customized portal page?
+  Ans :   Show 'HySecure Client Download' option 
+
+20. What does unlock user profile does?
+  Ans : -----------Wrong   Unlocks Users account in HySecure -----------
+
+21.Where are the settings to Enable/Disable auto-realm detection feature on management console?
+  Ans : ------Wrong   In Settings menu go to Global setting and then click on Client option. -----
+
+22.How many Mandatory Profiles can be created in HySecure?
+ Ans :   One
+
+23.What are the prerequisites for a HySecure gateway HA Cluster?
+ Ans :   NTP Server 
+
+24.What does "DMS" stand for in the context of Auth as service?
+  Ans :   Device Messaging Service 
+
+25.What is a common use case for FIDO tokens?
+  Ans :   Logging into online accounts 
+
+26.What does the acronym "CARTA" stand for in the context of user reauthentication?
+  Ans :   Continuous Adaptive Risk and Trust Assessment 
+
+27.What is the role of LIS?
+   Ans : ---------------- Wrong  Proxy between HySecure gateway and SMS gateway  Wrong ------------------ 
+
+28.What is the purpose of log archival in HySecure gateway?
+   Ans :   Compress files and keep required files as per config 
+
+29.What is the purpose of the Metric field in route entries?
+   Ans :   It represents the cost of the route. 
+
+30.What purpose does configuring an IP Address Pool serves in HySecure Gateway ?
+   Ans :   Providing unique IPs for user's 
+
+31.Which Access Control is employed to provide application access in HySecure?
+   Ans :   Application 
+
+32.What happens to the standby node during auto failover in HySecure?
+   Ans :   It takes over as the active node 
+
+33.What does the "Account Lockout" policy restrict?
+   Ans :   Access through HySecure after specific duration 
+
+34.What is a reverse proxy in the context of web applications?
+   Ans :   A server that sits between clients and backend servers, forwarding client requests. 
+
+35.What does NTP stand for in the context of computer networking?
+   Ans : Network Time Protocol
+
+36.How does authentication server failover work in HyWorks?
+   Ans : HyWorks keeps on checking the status of both authentication servers, and on failure of one authentication server, the second is used.
+
+37.How does HyWorks ensure data is not lost when a session is disconnected?  
+   Ans :    Sessions are saved and resumed on reconnection  
+
+38.How can administrators ensure security in HyWorks environments?
+   Ans :   Apply security patches regularly 
+
+39.How does authorization work in HyWorks?
+   Ans : Assigning roles, apps, desktops based on groups and OU fetched from the authorization server after authenticating with the authentication server. 
+   
+40.What does HyWorks use to manage user sessions?
+   Ans :   Connection Profiles 
+
+41.What is the recommended method for updating virtual desktops in HyWorks?
+   Ans : Update the gold image and recompose 
+
+42.Which component is responsible for delivering virtual desktops to end-users?
+   Ans : --------------- Wrong HyWorks Client  ------------
+
+43.Which port does HyWorks controller use for default communication with clients?
+   Ans :   38866 
+
+44.What is the function of the HyWorks Agent?
+   Ans :   Facilitate communication between the client and the controller 
+
+45.Default heartbeat interval?
+   Ans : ----- Wrong  60  ----
+
+46.How can administrators restrict user access to specific network resources in HyWorks?
+   Ans :   Configure connection profiles 
+
+47.What hypervisors and management servers can be used as dedicated session provider in HyWorks?
+ Ans : --------- Wrong   Citrix XenServers Microsoft Hyper-V/ SCVMM Vmware ESXi/ vCenter ---
+
+48.How can an administrator assign a specific desktop to a user in HyWorks?
+Ans:   Use a Personal Desktop Pool 
+
+49.What type of desktops does HyWorks support for deployment?
+Ans:   Windows and Linux desktops 
+
+50.What protocol does HyWorks use for secure communication?
+Ans:   HTTPS 
+
+51.Default RDP port to which connection is made to access?
+Ans:   3389 
+
+52.What is the primary function of the HyWorks Client?
+Ans:   Connect to virtual desktops 
+
+53.Is it possible to use a different AD/LDAP server for authentication and authorization in HyWorks?
+Ans:   Yes 
+
+54.Customer needs to deploy desktop pool for a group of developers, what kind of pool should be deployed?
+Ans:   Personal Persistent Desktop pool - Dynamic provisioning 
+
+55.Which protocol does HyWorks primarily use for establishing secure remote desktop connections?
+Ans:  RDP over TLS 
+
+56.How can end-users customize their HyWorks client settings?
+Ans :   Using the client interface 
+
+57.How can an administrator monitor user activity in HyWorks?
+Ans:   Via the Management Console 
+
+58.What type of storage does HyWorks support for virtual desktops?
+Ans:   SAN and NAS storage 
+
+59.What is the primary benefit of using connection profiles in HyWorks?
+Ans:   Customize user sessions 
+
+60.How does HyWorks optimize resource allocation for virtual desktops?
+Ans:   Dynamic provisioning 
+
+61.We have 3 desktops in desktop pools - powered on with IP and desktop agent as responding. User-1 logs-in and gets assigned with desktop-1 User-2 logs-in and gets assigned with desktop-2 User-1 logs out and desktop-1 is released User-3 logs in, which desktop will be assigned?
+Ans : ------------- Wrong Desktop-1 -------
+
+62.What is the process of creating virtual desktops in HyWorks?
+Ans :   Clone a master template 
+
+63.Which type of authentication server in HyWorks supports failover?
+Ans:   Microsoft Active Directory
+
+64.Can we add multiple authentication servers in HyWorks?
+Ans:   Yes, we can add. 
+
+65.I have recently created a VM on VMware vCenter server. When I try to create a desktop pool in HyWorks, I am not able to see the newly created VM. What is the problem? How can I solve it?
+Ans: ---------Wrong Update the desktop pool to trigger a refresh.-----
+  HyWorks refreshes its VM cache every hour (configurable). Edit the provider and update 
+
+66.With which Accops product is the HyID Module integrated?
+Ans : Hysecure 
+
+67.How does the HyID module handle endpoint compliance checks?
+Ans :    By verifying device health before granting access 
+
+68.What is the recommended action if a device fails a compliance check in HyID?
+Ans :   Block access 
+
+69.Which of the following can be used as an authentication factor in HyID?
+Ans :   sms token 
+
+70.What does "ADS" stand for?
+Ans : Accops Directory Server 
+
+71.Which of the following can be used as an authentication factor in HyID?
+Ans : Username and password 
+
+72.For Linux OS MFA, which type of Hysecure Policy is required?
+Ans : ------------- Wrong   Linux Registration Policy for 2FA  --------
+
+73.What is the main purpose of the HyID "Compliance Module"?
+Ans :   Ensuring devices meet security standards 
+
+74.What are some best practices for securing the HyID server itself?
+Ans : All(incorrect)
+
+ Regularly back up the HyID configuration 
+  All 
+  Use strong passwords and enforce regular rotation 
+  Keep the HyID software updated with the latest security patches 
+
+75.How does HyID ensure the authenticity of remote users?
+Ans:   By enforcing multifactor authentication 
+
+76.What are some best practices for educating users about HyID and its security features?
+Ans : All(correct)
+  Simulate phishing attacks to test user awareness 
+  Conduct regular awareness campaigns about phishing and social engineering attacks 
+  All 
+  Provide clear and concise user manuals and training materials 
+
+77.Which of the following is not a feature of Accops HyID?
+Ans:   Hardware Virtualization 
+
+78.What is the primary focus of HyID's "Endpoint Security" module?
+Ans :   Ensuring device compliance 
+
+79.Which of the following Accops clients does the HyID module support for multifactor authentication (MFA)?
+Ans : VPN clients 
+
+80.When integrating HyID with Active Directory, what role does it typically play?
+Ans : Identity provider 
+
+81.In HyID, what does the term "BYOD" stand for?
+Ans :   Bring Your Own Device 
+
+82.What is the process for enrolling a new mobile device for MFA with HyID?
+Ans : All (correct)
+    Download and install the HyID mobile app 
+  Enter passcode which is display in Accops HYID app to complete registration 
+  Register the device using a one-time enrollment code or QR code 
+  Scan a QR code provided by the HyID admin 
+  All 
+
+83.HyID uses certificates for secure communication. True or False?
+   Ans :   TRUE 
+
+84.What is the full form of IDP?
+ Ans :   Identity Provider 
+
+85.Which of these is not a part of the HyID Module?
+Ans :   PAM (Incorrect)
+
+  Single Sign-On 
+  ADS or LIS 
+  PAM 
+  RADIUS 
+  Devices Control 
+
+86.How does HyID enhance security during remote access scenarios?
+Ans :  By enforcing multifactor authentication (MFA) 
+
+87.Windows Desktop Agent Requires desktop Agent to be installed on?
+Ans : VM OR MACHINE WHERE MFA REQUIRED 
+
+88.What does the acronym "OTP" stand for in the context of HyID multi-factor authentication?
+Ans : One-Time Password 
+
+89.ADS acts as a
+ Ans : LDAP Proxy Server 
+    
+90.Which protocol does Accops HyID primarily use for secure authentication and authorization?
+Ans :    RADIUS
