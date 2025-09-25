@@ -1,5 +1,5 @@
 https://github.com/NiharMandal143/Accops_Certification_Program.git
-Final quiz
+Final quiz Attempt1 of Technical
 1.What tokens users can use for reauthentication in HySecure?
  Ans : SMS Email 
 
@@ -290,3 +290,80 @@ Ans : One-Time Password
     
 90.Which protocol does Accops HyID primarily use for secure authentication and authorization?
 Ans :    RADIUS
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Final quiz Attempt2 of Technical
+
+Q1.In the context of HySecure Gateway, what is the purpose of an App Tunnel IP Address Pool?
+  Ans: Providing unique IPs to users accessing published applications 
+
+    Providing unique IPs to users accessing published applications 
+    Assigning IP addresses to physical servers 
+    Allocating IP addresses to virtual machines 
+    Managing IP addresses for internal network devices 
+
+Q2.In the context of Ping, what does ICMP stand for?
+  Ans: Internet Control Message Protocol 
+          
+    Internet Connection Management Protocol 
+    International Computer Monitoring Protocol 
+    Internet Communication Multiplexing Protocol 
+    Internet Control Message Protocol 
+
+Q3.Which option enables the display of a copyright message on the customized portal page?
+   Ans: Show Copyright 
+
+    Edit CSS 
+    Show Copyright 
+    Edit web portal HTML files 
+    Customize Theme 
+
+Q4.Reverse proxy application access requests are served by:
+   Ans: nginx Server 
+
+    All 
+    Apache-Web Server 
+    nginx Server 
+    Tomcat Server 
+   
+Q5.What are the prerequisites for two HySecure nodes to exist in the same HySecure cluster?
+   Ans: Same HySecure OS and Hotfix version 
+
+    Same HySecure OS and Hotfix version 
+    Can be different HySecure OS and Hotfix version 
+    Same HySecure OS Version 
+    Same Hotfix Version 
+
+Q6.What is the full form of "CSR"?
+   Ans: Certificate signing request 
+   
+    Central sign request 
+    Certificate signing request 
+    Cert sign request 
+    Certificate Sign request 
+   
+Q7.What is the primary purpose of using different domains or URIs in a HySecure cluster?
+   Ans: To differentiate between different groups of users 
+
+    To differentiate between different groups of users 
+    To provide secure access to external websites 
+    To separate users from different countries 
+    To prevent access to the gateway 
+
+Q8.What are different utilities that can be used to troubleshoot issues in HySecure?
+   Ans: All 
+    All 
+    traceroute 
+    TCPdump 
+    Wireshark 
+
+Q9.What is the purpose of the "Secondary DNS" field in the host configuration?
+   Ans:   It is used when the primary DNS is unable to resolve names 
+    
+    It is used when the primary DNS is unable to resolve names 
+    It is the primary DNS for the system 
+    It specifies the IP Address of the interface 
+    It is an alternate default gateway 
+ 
